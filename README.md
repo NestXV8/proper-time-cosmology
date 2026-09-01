@@ -150,14 +150,5 @@ Standard cosmology projects time across redshift as if every clock, from recombi
 By assuming a global second—and therefore a global meter—modern cosmology has embedded phase-rate differentials into its distance-redshift relations, then read those differentials back out as evidence for new physics. What currently appears as the Hubble tension and dark energy is, on this account, the shadow of a broken projection: domain-specific clocks and rulers compared under a false assumption of universality. Our cosmological distance measures are, by this construction, biased by a calibration standard that silently drifts with cosmic curvature—and the proposed remedy is not new physics, but clock-matched bookkeeping.
 
 
-***
-
-### 🛠 Quick Tips for GitHub Pages Integration
-* **For Docsify/Standard Jekyll**: The mathematical equations are fully enclosed in standard `$$ ... $$` block syntax and `$ ... $` inline syntax. To make them render flawlessly on GitHub Pages, make sure your page template theme loads a parser extension like **KaTeX** or **MathJax**.
-* **Tables**: The scaling matrix and calculations look exceptionally crisp inside basic markdown pipe tables, adjusting perfectly to widescreen monitors and mobile screens alike.
-
-<FollowUp>
-Let me know if you would like me to write the code for the **Docsify configuration scripts (`index.html`)** or set up a clean, customized **custom style sheet (CSS)** to accompany this file.
-</FollowUp>
 
 
