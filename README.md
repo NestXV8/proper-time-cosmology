@@ -1,6 +1,6 @@
 
 
-# Proper Time Cosmology#
+# Proper Time Cosmology
 Redshift, distance, and the Hubble tension as effects of local phase accumulation
 All physical measurements reduce to comparing counted phase cycles. Every redshift, every distance, every second we define is a ratio of phase accumulation between an emitter and an observer. Cosmology already depends on this, but it assumes the phase rate—what we call a "second"—is the same everywhere. It isn't.
 
